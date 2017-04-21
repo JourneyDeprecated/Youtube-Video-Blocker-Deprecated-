@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <title>__MSG_extName__</title>
+    <link rel="stylesheet" type="text/css" href="../css/pageaction.css">
+  </head>
+
+  <body class="pageaction">
+
+    <header>
+      <div class="header-left">
+        <img class="header-image" src="../images/icons/icon19.png" alt="__MSG_extName__"> __MSG_extName__
+      </div>
+      <div class="header-right">
+        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3DWXL3FAH7DS" target="_blank">&#10084; __MSG_paDonate__</a>
+        <a id="button-settings" href="#">__MSG_paSettings__</a>
+      </div>
+    </header>
+
+    <div class="container-loading">
+      <div class="spinner">
+        <div class="bounce1"></div>
+        <div class="bounce2"></div>
+        <div class="bounce3"></div>
+      </div>
+      <p>__MSG_loadingExtension__</p>
+    </div>
+
+    <div class="container-protected" style="display: none;">
+      <h2>&#128274;</h2>
+      <p>__MSG_paLoginDescription__</p>
+      <p class="login-error" style="display: none;">__MSG_wrongPassword__</p>
+      <form class="login-form">
+        <p><input type="password" name="password"><input type="submit" value="__MSG_paLogin__"></p>
+      </form>
+    </div>
+
+    <div class="container-list" style="display: none;">
+      <div class="list-header">
+        <ul>
+          <li class="active" id="button-search">__MSG_paSearch__</li>
+          <li id="button-add">__MSG_paAdd__</li>
+          <li id="button-import">__MSG_paImport__</li>
+          <li id="button-export">__MSG_paExport__</li>
+          <li id="button-empty">__MSG_paEmpty__</li>
+        </ul>
+      </div>
+      <div class="list-actions">
+        <div id="action-search" class="action" style="display: block;">
+          <input type="text" placeholder="__MSG_paSearchPlaceholder__">
+        </div>
+        <div id="action-add" class="action">
+          <form>
+            <input type="text"><select>
+							<option value="channel">__MSG_paChannel__</option>
+							<option value="wildcard">__MSG_paWildcard__</option>
+							<option value="keyword">__MSG_paKeyword__</option>
+						</select><button type="submit">&#10133;</button>
+          </form>
+        </div>
+        <div id="action-import">
+          <input type="file" style="display: none;">
+        </div>
+        <div id="action-empty" class="action">
+          <span>__MSG_paEmptyConfirm__</span><button>__MSG_paYes__</button>
+        </div>
+      </div>
+      <div class="list-body">
+        <ul data-noitems="__MSG_paNothingHere__">
+
+        </ul>
+      </div>
+    </div>
+
+    <footer>
+      &nbsp;
+    </footer>
+
+    <script type="text/javascript" src="../js/utilities.js"></script>
+    <script type="text/javascript" src="../js/pageaction.js"></script>
+  </body>
+
+</html>

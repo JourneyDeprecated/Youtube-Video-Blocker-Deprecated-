@@ -1,0 +1,206 @@
+{
+  "cmBlockVideos": {
+    "description": "Block videos from this channel",
+    "message": "Block videos from this channel"
+  },
+  "extDescription": {
+    "description": "Extension description",
+    "message": "Hide annoying videos on YouTube from any channel you want!"
+  },
+  "extName": {
+    "description": "Extension name",
+    "message": "Video Blocker"
+  },
+  "extShortName": {
+    "description": "Extension short name",
+    "message": "Video Blocker"
+  },
+  "loadingExtension": {
+    "description": "Loading explanation",
+    "message": "One second please, the extension's data is being loaded from your browser. If this message does not dissapear, try reinstalling the extension."
+  },
+  "opDonate": {
+    "description": "Donate",
+    "message": "Donate"
+  },
+  "opHelp": {
+    "description": "Help",
+    "message": "Help"
+  },
+  "opHi": {
+    "description": "Hi",
+    "message": "Hi there!"
+  },
+  "opHiDescription": {
+    "description": "Hi explanation",
+    "message": "Thank you for using this extension. If you like this extension (and perhaps have been waiting for the settings below), please consider \u003Ca href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3DWXL3FAH7DS' target='_blank'>donating\u003C/a>. It is very much appreciated!"
+  },
+  "opIcon": {
+    "description": "Icon",
+    "message": "Icon"
+  },
+  "opIconDescription": {
+    "description": "Icon description",
+    "message": "Toggle the icon to be enabled or disabled. You need to refresh open YouTube pages to see the change. (It's no longer possible to hide the icon, so this is the best I can do.)"
+  },
+  "opIconLabel": {
+    "description": "Icon label",
+    "message": "Enable the extension's icon in the address bar"
+  },
+  "opList": {
+    "description": "List",
+    "message": "List"
+  },
+  "opLogin": {
+    "description": "Login",
+    "message": "Login"
+  },
+  "opLoginDescription": {
+    "description": "Login description",
+    "message": "To access the settings, you'll need to enter your password for the extension."
+  },
+  "opPassword": {
+    "description": "Password access",
+    "message": "Extension password"
+  },
+  "opPasswordChange": {
+    "description": "Change password",
+    "message": "Change password"
+  },
+  "opPasswordCurrent": {
+    "description": "Current password",
+    "message": "Current password:"
+  },
+  "opPasswordDescription": {
+    "description": "Password description",
+    "message": "Leave 'New password' blank to remove the password. Please note that the extension can still be removed without entering the password.\u003Cbr>\u003Cstrong>If you loose this password, the only way to get the extension to work again is by reinstalling the extension. Your blocked items will not be recovered!\u003C/strong>"
+  },
+  "opPasswordNew1": {
+    "description": "New password",
+    "message": "New password:"
+  },
+  "opPasswordNew2": {
+    "description": "Repeat new password",
+    "message": "Repeat new password:"
+  },
+  "opRedirect": {
+    "description": "Redirect",
+    "message": "Redirect"
+  },
+  "opRedirectDescription": {
+    "description": "Redirect description",
+    "message": "Toggle if you want to be redirected to the homepage when you visit a video that should be blocked (e.g. via a link)."
+  },
+  "opRedirectLabel": {
+    "description": "Redirect label",
+    "message": "Redirect when visiting a blocked video via a link"
+  },
+  "opSettings": {
+    "description": "Settings",
+    "message": "Settings"
+  },
+  "paAdd": {
+    "description": "Add",
+    "message": "Add"
+  },
+  "paChannel": {
+    "description": "Channel",
+    "message": "Channel"
+  },
+  "paDonate": {
+    "description": "Donate",
+    "message": "Donate"
+  },
+  "paEmpty": {
+    "description": "Empty",
+    "message": "Empty"
+  },
+  "paEmptyConfirm": {
+    "description": "Confirmation to empty the list",
+    "message": "Really empty the whole list?"
+  },
+  "paExport": {
+    "description": "Export",
+    "message": "Export"
+  },
+  "paImport": {
+    "description": "Import",
+    "message": "Import"
+  },
+  "paItemTotal": {
+    "description": "item in total (singular)",
+    "message": "item in total"
+  },
+  "paItemsTotal": {
+    "description": "items in total (multiple)",
+    "message": "items in total"
+  },
+  "paKeyword": {
+    "description": "Keyword",
+    "message": "Keyword"
+  },
+  "paLogin": {
+    "description": "Login",
+    "message": "Login"
+  },
+  "paLoginDescription": {
+    "description": "Login description",
+    "message": "A password has been set to protect the blocked items. Please enter the password to access the list."
+  },
+  "paNoSearchResults": {
+    "description": "No search results found",
+    "message": "No search results found"
+  },
+  "paNothingHere": {
+    "description": "No items in the list yet",
+    "message": "Nothing to show here (yet)"
+  },
+  "paSearch": {
+    "description": "Search",
+    "message": "Search"
+  },
+  "paSearchPlaceholder": {
+    "description": "Search field placeholder",
+    "message": "Search for specific entries in the list..."
+  },
+  "paSearchResult": {
+    "description": "search result found (singular)",
+    "message": "search result found"
+  },
+  "paSearchResults": {
+    "description": "search results found (multiple)",
+    "message": "search results found"
+  },
+  "paSettings": {
+    "description": "Settings",
+    "message": "Settings"
+  },
+  "paWildcard": {
+    "description": "Wildcard",
+    "message": "Wildcard"
+  },
+  "paYes": {
+    "description": "Yes",
+    "message": "Yes"
+  },
+  "pageActionTitle": {
+    "description": "Title for the page action button",
+    "message": "Video Blocker - Controls"
+  },
+  "passwordChanged": {
+    "description": "Password changed",
+    "message": "Password has been succesfully changed."
+  },
+  "wrongCurrentPassword": {
+    "description": "Incorrect current password",
+    "message": "The current password is not correct."
+  },
+  "wrongMatchingPasswords": {
+    "description": "Not matching passwords",
+    "message": "The new passwords don't match."
+  },
+  "wrongPassword": {
+    "description": "Incorrect password",
+    "message": "The password is not correct."
+  }
+}

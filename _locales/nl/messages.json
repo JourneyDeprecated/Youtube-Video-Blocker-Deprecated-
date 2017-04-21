@@ -1,0 +1,206 @@
+{
+  "cmBlockVideos": {
+    "description": "Block videos from this channel",
+    "message": "Blokkeer video's van dit kanaal"
+  },
+  "extDescription": {
+    "description": "Extension description",
+    "message": "Verberg video's op YouTube van elk kanaal dat je maar wilt!"
+  },
+  "extName": {
+    "description": "Extension name",
+    "message": "Video Blocker"
+  },
+  "extShortName": {
+    "description": "Extension short name",
+    "message": "Video Blocker"
+  },
+  "loadingExtension": {
+    "description": "Loading explanation",
+    "message": "Een ogenblikje alsjeblieft, de gegevens van de extensie worden geladen. Als dit bericht niet weg gaat, probeer dan de extensie opnieuw te installeren."
+  },
+  "opDonate": {
+    "description": "Donate",
+    "message": "Doneren"
+  },
+  "opHelp": {
+    "description": "Help",
+    "message": "Help"
+  },
+  "opHi": {
+    "description": "Hi",
+    "message": "Hallo!"
+  },
+  "opHiDescription": {
+    "description": "Hi explanation",
+    "message": "Leuk dat je deze extensie gebruikt! Als je hem erg handig vindt (en wellicht hebt uitgekeken naar onderstaande instellingen), overweeg dan om een \u003Ca href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3DWXL3FAH7DS' target='_blank'>donatie te doen\u003C/a>. Alvast heel erg bedankt!"
+  },
+  "opIcon": {
+    "description": "Icon",
+    "message": "Icoontje"
+  },
+  "opIconDescription": {
+    "description": "Icon description",
+    "message": "Schakel het icoontje in of uit. Je moet open YouTube-pagina's verversen om het effect te zien.\u003Cbr>(Het is helaas niet langer mogelijk om het icoontje volledig te verberegen, dus dit is het beste wat ik kan doen.)"
+  },
+  "opIconLabel": {
+    "description": "Icon label",
+    "message": "Schakel het icoontje in de werkbalk in."
+  },
+  "opList": {
+    "description": "List",
+    "message": "Lijst"
+  },
+  "opLogin": {
+    "description": "Login",
+    "message": "Login"
+  },
+  "opLoginDescription": {
+    "description": "Login description",
+    "message": "Om toegang te krijgen tot de instellingen moet je inloggen met je wachtwoord voor deze extensie."
+  },
+  "opPassword": {
+    "description": "Password access",
+    "message": "Wachtwoord"
+  },
+  "opPasswordChange": {
+    "description": "Change password",
+    "message": "Wachtwoord veranderen"
+  },
+  "opPasswordCurrent": {
+    "description": "Current password",
+    "message": "Huidig wachtwoord:"
+  },
+  "opPasswordDescription": {
+    "description": "Password description",
+    "message": "Laat 'Nieuw wachtwoord' leeg om het huidige wachtwoord te verwijderen. Let op: De extensie kan alsnog zonder wachtwoord verwijderd worden.\u003Cbr>\u003Cstrong>Als je dit wachtwoord kwijtraakt is de enige oplossing de extensie opnieuw installeren. Je geblokkeerde items zullen hierdoor worden gewist!\u003C/strong>"
+  },
+  "opPasswordNew1": {
+    "description": "New password",
+    "message": "Nieuw wachtwoord:"
+  },
+  "opPasswordNew2": {
+    "description": "Repeat new password",
+    "message": "Nieuw wachtwoord herhalen:"
+  },
+  "opRedirect": {
+    "description": "Redirect",
+    "message": "Doorsturen"
+  },
+  "opRedirectDescription": {
+    "description": "Redirect description",
+    "message": "Schakel het doorsturen naar de homepagina in of uit wanneer je bij een geblokkeerde video uitkomt via bijvoorbeeld een link."
+  },
+  "opRedirectLabel": {
+    "description": "Redirect label",
+    "message": "Doorsturen wanneer ik bij een geblokkeerde video uitkom."
+  },
+  "opSettings": {
+    "description": "Settings",
+    "message": "Instellingen"
+  },
+  "paAdd": {
+    "description": "Add",
+    "message": "Nieuw"
+  },
+  "paChannel": {
+    "description": "Channel",
+    "message": "Kanaal"
+  },
+  "paDonate": {
+    "description": "Donate",
+    "message": "Doneren"
+  },
+  "paEmpty": {
+    "description": "Empty",
+    "message": "Legen"
+  },
+  "paEmptyConfirm": {
+    "description": "Confirmation to empty the list",
+    "message": "Echt de hele lijst wissen?"
+  },
+  "paExport": {
+    "description": "Export",
+    "message": "Exporteren"
+  },
+  "paImport": {
+    "description": "Import",
+    "message": "Importeren"
+  },
+  "paItemTotal": {
+    "description": "item in total (singular)",
+    "message": "item in totaal"
+  },
+  "paItemsTotal": {
+    "description": "items in total (multiple)",
+    "message": "items in totaal"
+  },
+  "paKeyword": {
+    "description": "Keyword",
+    "message": "Keyword"
+  },
+  "paLogin": {
+    "description": "Login",
+    "message": "Login"
+  },
+  "paLoginDescription": {
+    "description": "Login description",
+    "message": "Om tot het beheer van de extensie toegang te krijgen moet je inloggen met je wachtwoord voor deze extensie."
+  },
+  "paNoSearchResults": {
+    "description": "No search results found",
+    "message": "Geen zoekresultaten gevonden"
+  },
+  "paNothingHere": {
+    "description": "No items in the list yet",
+    "message": "(Nog) niets om te laten zien."
+  },
+  "paSearch": {
+    "description": "Search",
+    "message": "Zoeken"
+  },
+  "paSearchPlaceholder": {
+    "description": "Search field placeholder",
+    "message": "Zoek naar een specifiek item in de lijst..."
+  },
+  "paSearchResult": {
+    "description": "search result found (singular)",
+    "message": "zoekresultaat gevonden"
+  },
+  "paSearchResults": {
+    "description": "search results found (multiple)",
+    "message": "zoekresultaten gevonden"
+  },
+  "paSettings": {
+    "description": "Settings",
+    "message": "Instellingen"
+  },
+  "paWildcard": {
+    "description": "Wildcard",
+    "message": "Wildcard"
+  },
+  "paYes": {
+    "description": "Yes",
+    "message": "Ja"
+  },
+  "pageActionTitle": {
+    "description": "Title for the page action button",
+    "message": "Video Blocker - Beheer"
+  },
+  "passwordChanged": {
+    "description": "Password changed",
+    "message": "Het wachtwoord is succesvol veranderd.."
+  },
+  "wrongCurrentPassword": {
+    "description": "Incorrect current password",
+    "message": "Het huidige wachtwoord is onjuist."
+  },
+  "wrongMatchingPasswords": {
+    "description": "Not matching passwords",
+    "message": "De nieuwe wachtwoorden komen niet overeen."
+  },
+  "wrongPassword": {
+    "description": "Incorrect password",
+    "message": "Het wachtwoord is onjuist."
+  }
+}
