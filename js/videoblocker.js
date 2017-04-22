@@ -10,7 +10,7 @@ var containerList = [{
   },
   {
     container: '.yt-shelf-grid-item',
-    channelname: '.yt-lockup-byline > a',
+    channelname: '.yt-lockup-byline .g-hovercard',
     videotitle: '.yt-lockup-title > a'
   },
   {
@@ -25,7 +25,7 @@ var containerList = [{
   },
   {
     container: '.expanded-shelf .expanded-shelf-content-item-wrapper',
-    channelname: '.yt-lockup-byline > a',
+    channelname: '.yt-lockup-byline .g-hovercard',
     videotitle: '.yt-lockup-title > a'
   },
   {
