@@ -19,10 +19,6 @@
     "description": "Loading explanation",
     "message": "Een ogenblikje alsjeblieft, de gegevens van de extensie worden geladen. Als dit bericht niet weg gaat, probeer dan de extensie opnieuw te installeren."
   },
-  "opDonate": {
-    "description": "Donate",
-    "message": "Doneren"
-  },
   "opHelp": {
     "description": "Help",
     "message": "Help"
@@ -106,10 +102,6 @@
   "paChannel": {
     "description": "Channel",
     "message": "Kanaal"
-  },
-  "paDonate": {
-    "description": "Donate",
-    "message": "Doneren"
   },
   "paEmpty": {
     "description": "Empty",

@@ -76,10 +76,6 @@ document.addEventListener('DOMContentLoaded', function(event) {
         '</ul>' +
         '<p>More information can be found on the settings page under the \'Help\' section.</p>' +
         '<hr>' +
-        '<p class="big">If you like this extension - <em>and perhaps are pleased with the addition of these new features</em> - please consider <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3DWXL3FAH7DS" target="_blank">donating</a> any amount you think it\'s worth. It is very much appreciated and keeps me motivated to keep working on the extension.</p>' +
-        '<p style="text-align:center;">You can find the donate link on the controls panel as well:</p>' +
-        '<p style="text-align:center;"><img src="' + chrome.extension.getURL("images/screenshot.png") + '" alt="Screenshot"></p>' +
-        '<hr>' +
         '<p style="text-align:center; margin-bottom:0; font-weight:500;"><a id="videoblocker-closewindow" href="#">Close this window (untill the next update)</a></p>';
       inner.appendChild(content);
       document.getElementById('videoblocker-closewindow').addEventListener('click', function(event) {
@@ -107,10 +103,6 @@ document.addEventListener('DOMContentLoaded', function(event) {
         '<li>Export your blocked items and import them on a different computer.</li>' +
         '</ul>' +
         '<p>More information can be found on the settings page under the \'Help\' section.</p>' +
-        '<hr>' +
-        '<p class="big">If you like this extension - <em>perhaps after using the extension for a bit</em> - please consider <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3DWXL3FAH7DS" target="_blank">donating</a> any amount you think it\'s worth. It is very much appreciated and keeps me motivated to keep working on the extension.</p>' +
-        '<p style="text-align:center;">You can find the donate link on the controls panel as well:</p>' +
-        '<p style="text-align:center;"><img src="' + chrome.extension.getURL("images/screenshot.png") + '" alt="Screenshot"></p>' +
         '<hr>' +
         '<p style="text-align:center; margin-bottom:0; font-weight:500;"><a id="videoblocker-closewindow" href="#">Close this window (untill the next update)</a></p>';
       inner.appendChild(content);

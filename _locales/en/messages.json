@@ -19,10 +19,6 @@
     "description": "Loading explanation",
     "message": "One second please, the extension's data is being loaded from your browser. If this message does not dissapear, try reinstalling the extension."
   },
-  "opDonate": {
-    "description": "Donate",
-    "message": "Donate"
-  },
   "opHelp": {
     "description": "Help",
     "message": "Help"
@@ -33,7 +29,7 @@
   },
   "opHiDescription": {
     "description": "Hi explanation",
-    "message": "Thank you for using this extension. If you like this extension (and perhaps have been waiting for the settings below), please consider \u003Ca href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3DWXL3FAH7DS' target='_blank'>donating\u003C/a>. It is very much appreciated!"
+    "message": "Thank you for using this extension."
   },
   "opIcon": {
     "description": "Icon",
@@ -106,10 +102,6 @@
   "paChannel": {
     "description": "Channel",
     "message": "Channel"
-  },
-  "paDonate": {
-    "description": "Donate",
-    "message": "Donate"
   },
   "paEmpty": {
     "description": "Empty",
