@@ -1,15 +1,3 @@
-// ==UserScript==
-// @name        Block youtube users
-// @namespace   JourneyOver
-// @include     *youtube.com/*
-// @exclude     *my_videos*
-// @grant       GM_getValue
-// @grant       GM_setValue
-// @require http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
-// @require https://gist.github.com/raw/2625891/waitForKeyElements.js
-// @version     0.0.1
-// ==/UserScript==
-
 function opensettings() {
   var settingsDiv = '<div style="margin-top:100px;margin-left:250px;padding:10px;" id="blocksettingsdiv"><p>Blocks:</p> <textarea id="blockslist" cols="90" rows="10">' + blocks + '</textarea><br>Don' + "'" + 't show the video on watchpage (if you are watching a video from this user): <input type="checkbox" id="checkb"><br> <input type="submit" id="saveblocks" value="SAVE"><div id="saved"></div></div>';
   //$(settingsDiv).insertBefore('#masthead-expanded-acct-sw-container');
