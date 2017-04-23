@@ -17,7 +17,7 @@
   },
   "loadingExtension": {
     "description": "Loading explanation",
-    "message": "One second please, the extension's data is being loaded from your browser. If this message does not dissapear, try reinstalling the extension."
+    "message": "One second please, the extension's data is being loaded from your browser. If this message does not disappear, try reinstalling the extension."
   },
   "opHelp": {
     "description": "Help",
@@ -181,7 +181,7 @@
   },
   "passwordChanged": {
     "description": "Password changed",
-    "message": "Password has been succesfully changed."
+    "message": "Password has been successfully changed."
   },
   "wrongCurrentPassword": {
     "description": "Incorrect current password",
