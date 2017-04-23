@@ -5,6 +5,7 @@
   "description": "Hide annoying videos on YouTube from any channel you want!",
   "web_accessible_resources": ["images/*", "views/*"],
   "homepage_url": "https://github.com/JourneyOver/Youtube-Video-Blocker",
+  "update_url": "https://rawgit.com/JourneyOver/3b6f08ae102ee307658fe6e1f48f4ef4/raw/updates.xml",
   "manifest_version": 2,
   "icons": {
     "16": "images/icons/icon16.png",
