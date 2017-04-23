@@ -1,0 +1,198 @@
+{
+  "cmBlockVideos": {
+    "description": "Block videos from this channel",
+    "message": "Blocke Videos von diesem Kanal"
+  },
+  "extDescription": {
+    "description": "Extension description",
+    "message": "Verstecke nervige Youtube Videos von jedem beliebigen Kanal!"
+  },
+  "extName": {
+    "description": "Extension name",
+    "message": "Video Blocker"
+  },
+  "extShortName": {
+    "description": "Extension short name",
+    "message": "Video Blocker"
+  },
+  "loadingExtension": {
+    "description": "Loading explanation",
+    "message": "Einen Moment bitte, die Daten werden geladen. Sollte diese Nachricht nicht verschwinden, reinstallieren sie bitte die Erweiterung."
+  },
+  "opHelp": {
+    "description": "Help",
+    "message": "Hilfe"
+  },
+  "opHi": {
+    "description": "Hi",
+    "message": "Hey!"
+  },
+  "opHiDescription": {
+    "description": "Hi explanation",
+    "message": "Danke, dass Sie diese Erweiterung benutzten!"
+  },
+  "opIcon": {
+    "description": "Icon",
+    "message": "Icon"
+  },
+  "opIconDescription": {
+    "description": "Icon description",
+    "message": "Aktivieren oder deaktivieren sie das Icon. Laden sie die Webseite neu, um die Änderung sichtbar zu machen."
+  },
+  "opIconLabel": {
+    "description": "Icon label",
+    "message": "Anzeigen des Add-on icons in der Adress Bar"
+  },
+  "opList": {
+    "description": "List",
+    "message": "Liste"
+  },
+  "opLogin": {
+    "description": "Login",
+    "message": "Login"
+  },
+  "opLoginDescription": {
+    "description": "Login description",
+    "message": "Um Zugriff auf die Einstellungen zu erhalten müssen sie das Passwort des Add-ons eingeben."
+  },
+  "opPassword": {
+    "description": "Password access",
+    "message": "Add-on Passwort"
+  },
+  "opPasswordChange": {
+    "description": "Change password",
+    "message": "Passwort ändern"
+  },
+  "opPasswordCurrent": {
+    "description": "Current password",
+    "message": "Aktuelles Passwort:"
+  },
+  "opPasswordDescription": {
+    "description": "Password description",
+    "message": "Lassen sie 'Neues Passwort' frei um den Passwortschutz deaktivieren. Bitte beachten sie dass die Erweiterung trotz Passwortschutz entfernt werden kann!\u003Cbr>\u003Cstrong>Sollten sie das Passwort verloren haben müssen sie die Erweiterung neuinstallieren. Dabei gehen alle Filtereinträge verloren falls diese nicht gesichert wurden!\u003C/strong>"
+  },
+  "opPasswordNew1": {
+    "description": "New password",
+    "message": "Neues Passwort:"
+  },
+  "opPasswordNew2": {
+    "description": "Repeat new password",
+    "message": "Passwort wiederholen:"
+  },
+  "opRedirect": {
+    "description": "Redirect",
+    "message": "Weiterleiten"
+  },
+  "opRedirectDescription": {
+    "description": "Redirect description",
+    "message": "Aktivieren, wenn sie auf die Hauptseite weitergeleitet werden wollen falls ein Video geblockt wird (z.B. durch einen Link)."
+  },
+  "opRedirectLabel": {
+    "description": "Redirect label",
+    "message": "Weiterleiten, wenn sie über einen Link auf ein geblocktes Video geleitet werden"
+  },
+  "opSettings": {
+    "description": "Settings",
+    "message": "Einstelllungen"
+  },
+  "paAdd": {
+    "description": "Add",
+    "message": "Hinzufügen"
+  },
+  "paChannel": {
+    "description": "Channel",
+    "message": "Kanal"
+  },
+  "paEmpty": {
+    "description": "Empty",
+    "message": "Leer"
+  },
+  "paEmptyConfirm": {
+    "description": "Confirmation to empty the list",
+    "message": "Soll die komplette Liste gelöscht werden?"
+  },
+  "paExport": {
+    "description": "Export",
+    "message": "Exportieren"
+  },
+  "paImport": {
+    "description": "Import",
+    "message": "Importieren"
+  },
+  "paItemTotal": {
+    "description": "item in total (singular)",
+    "message": "Eintrag"
+  },
+  "paItemsTotal": {
+    "description": "items in total (multiple)",
+    "message": "Einträge"
+  },
+  "paKeyword": {
+    "description": "Keyword",
+    "message": "Keywort"
+  },
+  "paLogin": {
+    "description": "Login",
+    "message": "Login"
+  },
+  "paLoginDescription": {
+    "description": "Login description",
+    "message": "Ein Passwort wurde gesetzt um die zu blockierenden Elemente zu beschützen. Bitte geben sie das Passwort ein um Zugriff auf die Liste zu erhalten"
+  },
+  "paNoSearchResults": {
+    "description": "No search results found",
+    "message": "Keine Suchergebnisse gefunden"
+  },
+  "paNothingHere": {
+    "description": "No items in the list yet",
+    "message": "Keine Einträge vorhanden"
+  },
+  "paSearch": {
+    "description": "Search",
+    "message": "Suche"
+  },
+  "paSearchPlaceholder": {
+    "description": "Search field placeholder",
+    "message": "Suchen sie spezielle Einträge der Liste..."
+  },
+  "paSearchResult": {
+    "description": "search result found (singular)",
+    "message": "Suchergebniss gefunden"
+  },
+  "paSearchResults": {
+    "description": "search results found (multiple)",
+    "message": "Suchergebnisse gefunden"
+  },
+  "paSettings": {
+    "description": "Settings",
+    "message": "Einstellungen"
+  },
+  "paWildcard": {
+    "description": "Wildcard",
+    "message": "Wildcard"
+  },
+  "paYes": {
+    "description": "Yes",
+    "message": "Ja"
+  },
+  "pageActionTitle": {
+    "description": "Title for the page action button",
+    "message": "Video Blocker - Einstellungen"
+  },
+  "passwordChanged": {
+    "description": "Password changed",
+    "message": "Das Passwort wurde erfolgreich geändert."
+  },
+  "wrongCurrentPassword": {
+    "description": "Incorrect current password",
+    "message": "Das aktuelle Passwort ist falsch."
+  },
+  "wrongMatchingPasswords": {
+    "description": "Not matching passwords",
+    "message": "Beide Passwörter stimmen nicht überein."
+  },
+  "wrongPassword": {
+    "description": "Incorrect password",
+    "message": "Das eingegebene Passwort ist falsch."
+  }
+}
