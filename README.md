@@ -22,8 +22,10 @@ The source is hosted on [GitHub](https://github.com/JourneyOver/Youtube-Video-Bl
 2. Download the latest .crx 
 3. In Chrome, navigate to chrome://extensions
 4. Drag and drop the .crx file anywhere on the page and when it asks if you want to install it click yes
-5. The extension should be installed! You should now see it in the list of your extensions, and it’s icon (if it has one) will be in the Chrome menu. That’s it! Super painless
+5. The extension should be installed! You should now see it in the list of your extensions, and it’s icon will be in the Chrome menu. That’s it! Super painless
 6. You can delete the .crx file as it's safe to delete now.
+7. If you would like to keep your settings, click the old version of the extension and click on export and export the .json anywhere.
+8. Go to the new version of the extension and click on import and import the .json you just made.
 
 Or 
 
@@ -32,7 +34,9 @@ Or
 3. Take the downloaded ZIP file and extract its contents somewhere safe like "%localappdata%\google\chrome". (if the files get moved/deleted then the extension will stop working).
 4. With the extension downloaded and extracted, you can now install it.In Chrome, navigate to chrome://extensions
 5. Installing the extension is extremely easy. All you need to do is drag-and-drop the folder you extracted onto Chrome’s Extensions page.
-6. The extension should be installed! You should now see it in the list of your extensions, and it’s icon (if it has one) will be in the Chrome menu. That’s it! Super painless
+6. The extension should be installed! You should now see it in the list of your extensions, and it’s icon will be in the Chrome menu. That’s it! Super painless
+7. If you would like to keep your settings, click the old version of the extension and click on export and export the .json anywhere.
+8. Go to the new version of the extension and click on import and import the .json you just made. 
 
 ## How to update
 
