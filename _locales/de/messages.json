@@ -1,11 +1,11 @@
 {
   "cmBlockVideos": {
     "description": "Block videos from this channel",
-    "message": "Blocke Videos von diesem Kanal"
+    "message": "Blockiere alle Videos von diesem Kanal"
   },
   "extDescription": {
     "description": "Extension description",
-    "message": "Verstecke nervige Youtube Videos von jedem beliebigen Kanal!"
+    "message": "Verstecke nervige Youtube-Videos von jedem beliebigen Kanal!"
   },
   "extName": {
     "description": "Extension name",
@@ -17,7 +17,7 @@
   },
   "loadingExtension": {
     "description": "Loading explanation",
-    "message": "Einen Moment bitte, die Daten werden geladen. Sollte diese Nachricht nicht verschwinden, reinstallieren sie bitte die Erweiterung."
+    "message": "Einen Moment bitte, die Daten werden geladen. Sollte diese Nachricht nicht verschwinden, installieren Sie die Erweiterung bitte neu."
   },
   "opHelp": {
     "description": "Help",
@@ -37,11 +37,11 @@
   },
   "opIconDescription": {
     "description": "Icon description",
-    "message": "Aktivieren oder deaktivieren sie das Icon. Laden sie die Webseite neu, um die Änderung sichtbar zu machen."
+    "message": "Aktivieren oder deaktivieren Sie das Add-on Icon. Laden Sie die Webseite neu, um die Änderung sichtbar zu machen."
   },
   "opIconLabel": {
     "description": "Icon label",
-    "message": "Anzeigen des Add-on icons in der Adress Bar"
+    "message": "Anzeigen des Add-on Icons in der Adress-Zeile"
   },
   "opList": {
     "description": "List",
@@ -53,7 +53,7 @@
   },
   "opLoginDescription": {
     "description": "Login description",
-    "message": "Um Zugriff auf die Einstellungen zu erhalten müssen sie das Passwort des Add-ons eingeben."
+    "message": "Um Zugriff auf die Einstellungen zu erhalten, müssen Sie das Passwort des Add-ons eingeben."
   },
   "opPassword": {
     "description": "Password access",
@@ -69,7 +69,7 @@
   },
   "opPasswordDescription": {
     "description": "Password description",
-    "message": "Lassen sie 'Neues Passwort' frei um den Passwortschutz deaktivieren. Bitte beachten sie dass die Erweiterung trotz Passwortschutz entfernt werden kann!\u003Cbr>\u003Cstrong>Sollten sie das Passwort verloren haben müssen sie die Erweiterung neuinstallieren. Dabei gehen alle Filtereinträge verloren falls diese nicht gesichert wurden!\u003C/strong>"
+    "message": "Lassen Sie 'Neues Passwort' frei um den Passwortschutz deaktivieren. Bitte beachten Sie, dass die Erweiterung trotz Passwortschutz entfernt werden kann!\u003Cbr>\u003Cstrong>Sollten Sie das Passwort verloren haben, müssen Sie die Erweiterung neuinstallieren. Dabei gehen alle Filtereinträge verloren falls diese nicht gesichert wurden!\u003C/strong>"
   },
   "opPasswordNew1": {
     "description": "New password",
@@ -85,11 +85,11 @@
   },
   "opRedirectDescription": {
     "description": "Redirect description",
-    "message": "Aktivieren, wenn sie auf die Hauptseite weitergeleitet werden wollen falls ein Video geblockt wird (z.B. durch einen Link)."
+    "message": "Aktivieren, falls Sie auf die Hauptseite weitergeleitet werden wollen wenn ein Video geblockt wurde (z.B. durch einen Link)."
   },
   "opRedirectLabel": {
     "description": "Redirect label",
-    "message": "Weiterleiten, wenn sie über einen Link auf ein geblocktes Video geleitet werden"
+    "message": "Weiterleiten, wenn Sie über einen Link auf ein geblocktes Video geleitet werden"
   },
   "opSettings": {
     "description": "Settings",
@@ -109,7 +109,7 @@
   },
   "paEmptyConfirm": {
     "description": "Confirmation to empty the list",
-    "message": "Soll die komplette Liste gelöscht werden?"
+    "message": "Soll die komplette Liste wirklich gelöscht werden?"
   },
   "paExport": {
     "description": "Export",
@@ -137,7 +137,7 @@
   },
   "paLoginDescription": {
     "description": "Login description",
-    "message": "Ein Passwort wurde gesetzt um die zu blockierenden Elemente zu beschützen. Bitte geben sie das Passwort ein um Zugriff auf die Liste zu erhalten"
+    "message": "Ein Passwort wurde gesetzt um die zu blockierenden Elemente zu beschützen. Bitte geben Sie das Passwort ein um Zugriff auf die Liste zu erhalten"
   },
   "paNoSearchResults": {
     "description": "No search results found",
@@ -153,7 +153,7 @@
   },
   "paSearchPlaceholder": {
     "description": "Search field placeholder",
-    "message": "Suchen sie spezielle Einträge der Liste..."
+    "message": "Suchen Sie nach Einträge der Liste..."
   },
   "paSearchResult": {
     "description": "search result found (singular)",
