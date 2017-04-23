@@ -1,0 +1,1 @@
+This is for anyone who does not want to use the extension. (this is very limited on what it can do so it's advised to use the extension instead) My main focus is the extension, so this will rarely recieve updates.
