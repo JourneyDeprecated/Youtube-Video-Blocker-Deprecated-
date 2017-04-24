@@ -9,7 +9,7 @@
   },
   "extName": {
     "description": "Extension name",
-    "message": "Video Blocker"
+    "message": "Journey's Youtube Video Blocker"
   },
   "extShortName": {
     "description": "Extension short name",
@@ -177,7 +177,7 @@
   },
   "pageActionTitle": {
     "description": "Title for the page action button",
-    "message": "Video Blocker - Controls"
+    "message": "Journey's Youtube Video Blocker - Controls"
   },
   "passwordChanged": {
     "description": "Password changed",

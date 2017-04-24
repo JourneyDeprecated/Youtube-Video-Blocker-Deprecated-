@@ -173,7 +173,7 @@ function exportItems(e) {
     link.style.display = "none";
     document.body.appendChild(link);
     link.setAttribute("href", encodedUri);
-    link.setAttribute("download", "Video Blocker (" + items.length + " keys " + today + ").json");
+    link.setAttribute("download", "Journey's Youtube Video Blocker (" + items.length + " keys " + today + ").json");
     link.setAttribute("target", "_self");
     link.click();
   });

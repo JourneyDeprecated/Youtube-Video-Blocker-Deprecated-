@@ -67,12 +67,11 @@ document.addEventListener('DOMContentLoaded', function(event) {
       var content = document.createElement('div');
       content.classList.add('videoblocker-content');
       content.innerHTML = '' +
-        '<h1><img src="' + chrome.extension.getURL("images/icons/icon32.png") + '" alt="__MSG_extName__"> <span>Video Blocker - Extension updated (5.2.2)</span></h1>' +
+        '<h1><img src="' + chrome.extension.getURL("images/icons/icon32.png") + '" alt="__MSG_extName__"> <span>Journeys Youtube Video Blocker - Extension updated (1.0.2)</span></h1>' +
         '<hr>' +
-        '<p>The Video Blocker extension has been successfully updated. Below, I have listed the new and improved features.</p>' +
+        '<p>Journeys Youtube Video Blocker extension has been successfully updated. Below, I have listed the changes.</p>' +
         '<ul>' +
-        '<li><strong>Enable/disable redirect</strong> - Toggle the redirection to the homepage when a blocked video is accessed from a link.</li>' +
-        '<li><strong>Various fixes</strong> - Various fixes that should solve some issues and improve stability.</li>' +
+        '<li>Rename extension to Journeys Youtube Video Blocker</li>' +
         '</ul>' +
         '<p>More information can be found on the settings page under the \'Help\' section.</p>' +
         '<hr>' +
@@ -93,9 +92,9 @@ document.addEventListener('DOMContentLoaded', function(event) {
       var content = document.createElement('div');
       content.classList.add('videoblocker-content');
       content.innerHTML = '' +
-        '<h1><img src="' + chrome.extension.getURL("images/icons/icon32.png") + '" alt="__MSG_extName__"> <span>Video Blocker - Extension installed</span></h1>' +
+        '<h1><img src="' + chrome.extension.getURL("images/icons/icon32.png") + '" alt="__MSG_extName__"> <span>Journeys Youtube Video Blocker - Extension installed</span></h1>' +
         '<hr>' +
-        '<p>The Video Blocker extension has been successfully installed. Below, I have listed the key features.</p>' +
+        '<p>Journeys Youtube Video Blocker extension has been successfully installed. Below, I have listed the key features.</p>' +
         '<ul>' +
         '<li>Block videos from specific YouTube channels by adding them manually or via right click on a video thumbnail. *</li>' +
         '<li>Block videos on YouTube with specific keywords in the title</li>' +
