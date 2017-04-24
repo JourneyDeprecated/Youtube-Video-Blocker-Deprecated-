@@ -18,8 +18,9 @@ The source is hosted on [GitHub](https://github.com/JourneyOver/Youtube-Video-Bl
 
 ## How to install manually [only way for now]
 
+First method -- Some chrome based browsers do not support this method anymore so you will have to resort to the second method to install the extension.
 1. Go to [Releases](https://github.com/JourneyOver/Youtube-Video-Blocker/releases)
-2. Download the latest .crx 
+2. Download the latest .crx
 3. In Chrome, navigate to chrome://extensions
 4. Drag and drop the .crx file anywhere on the page and when it asks if you want to install it click yes
 5. The extension should be installed! You should now see it in the list of your extensions, and it’s icon will be in the Chrome menu. That’s it! Super painless
@@ -27,7 +28,7 @@ The source is hosted on [GitHub](https://github.com/JourneyOver/Youtube-Video-Bl
 7. If you would like to keep your settings, click the old version of the extension and click on export and export the .json anywhere.
 8. Go to the new version of the extension and click on import and import the .json you just made.
 
-Or 
+Or second method --
 
 1. look for the green “Clone or download” button
 2. Click the “Clone or download” button and then click “Download ZIP.”
@@ -36,7 +37,7 @@ Or
 5. Installing the extension is extremely easy. All you need to do is drag-and-drop the folder you extracted onto Chrome’s Extensions page.
 6. The extension should be installed! You should now see it in the list of your extensions, and it’s icon will be in the Chrome menu. That’s it! Super painless
 7. If you would like to keep your settings, click the old version of the extension and click on export and export the .json anywhere.
-8. Go to the new version of the extension and click on import and import the .json you just made. 
+8. Go to the new version of the extension and click on import and import the .json you just made.
 
 ## How to update
 

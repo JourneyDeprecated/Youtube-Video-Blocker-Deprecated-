@@ -104,8 +104,6 @@ document.addEventListener('DOMContentLoaded', function(event) {
         '</ul>' +
         '<p>More information can be found on the settings page under the \'Help\' section.</p>' +
         '<hr>' +
-        '<p>*"via right click on a video thumbnail" other extensions and/or tampermonkey/greasemonkey scripts may or may not break this functionality.</p>' +
-        '<hr>' +
         '<p style="text-align:center; margin-bottom:0; font-weight:500;"><a id="videoblocker-closewindow" href="#">Close this window (until the next update)</a></p>';
       inner.appendChild(content);
       document.getElementById('videoblocker-closewindow').addEventListener('click', function(event) {
