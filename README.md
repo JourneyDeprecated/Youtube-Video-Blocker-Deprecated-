@@ -2,7 +2,7 @@ Journey's YouTube Video Blocker - YouTube Video Blocker fork for Chrome and Chro
 
 ## Notice!
 
-As of 4/24/17 This extension will be on the back burner until further notice as the ![extension](https://chrome.google.com/webstore/detail/video-blocker/jknkjnpcbbgcbdbaampbjlhkcghmgfhk?hl=en) this is based off of has starting working again, if said extension stops working in the future I will resume working on this once again.
+As of 4/24/17 This extension will be on the back burner until further notice as the [extension](https://chrome.google.com/webstore/detail/video-blocker/jknkjnpcbbgcbdbaampbjlhkcghmgfhk?hl=en) this is based off of has starting working again, if said extension stops working in the future I will resume working on this once again.
 
 ## Releases
 
@@ -14,7 +14,7 @@ At the Current time there are no releases scheduled for chrome store. Sorry
 
 ## What is this
 
-Journey's YouTube Video Blocker is an extension that is based off of ![Video Blocker](https://chrome.google.com/webstore/detail/video-blocker/jknkjnpcbbgcbdbaampbjlhkcghmgfhk?hl=en) to get things working again as the extension stopped working on 4/20/17 and the developer had disappeared off the face of the planet. My plans are to keep this extension alive and working for as long as possible.
+Journey's YouTube Video Blocker is an extension that is based off of [Video Blocker](https://chrome.google.com/webstore/detail/video-blocker/jknkjnpcbbgcbdbaampbjlhkcghmgfhk?hl=en) to get things working again as the extension stopped working on 4/20/17 and the developer had disappeared off the face of the planet. My plans are to keep this extension alive and working for as long as possible.
 
 ## what Does it do
 
