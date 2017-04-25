@@ -1,5 +1,9 @@
 Journey's YouTube Video Blocker - YouTube Video Blocker fork for Chrome and Chrome-like things
 
+## Notice!
+
+As of 4/24/17 This extension will be on the back burner until further notice as the ![extension](https://chrome.google.com/webstore/detail/video-blocker/jknkjnpcbbgcbdbaampbjlhkcghmgfhk?hl=en) this is based off of has starting working again, if said extension stops working in the future I will resume working on this once again.
+
 ## Releases
 
 At the Current time there are no releases scheduled for chrome store. Sorry
@@ -8,7 +12,11 @@ At the Current time there are no releases scheduled for chrome store. Sorry
 
 ![Screenshot](images/screenshot.png)
 
-## What It Does
+## What is this
+
+Journey's YouTube Video Blocker is an extension that is based off of ![Video Blocker](https://chrome.google.com/webstore/detail/video-blocker/jknkjnpcbbgcbdbaampbjlhkcghmgfhk?hl=en) to get things working again as the extension stopped working on 4/20/17 and the developer had disappeared off the face of the planet. My plans are to keep this extension alive and working for as long as possible.
+
+## what Does it do
 
 Journey's YouTube Video Blocker allows you to hide videos from channels that you don't like. You can specify these channels by right-clicking on a link to a video on YouTube or by adding them manually via the options page. You can also hide videos from multiple channels at once, by using a wildcard or adding regular expressions. Blocking videos with certain keywords in their title is also possible! For more information on how to do this exactly, please visit the help section at the settings after installing this extension. Every item you add to your block-list can now also be protected with a password!
 
