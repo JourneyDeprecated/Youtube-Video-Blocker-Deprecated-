@@ -4,6 +4,10 @@ Journey's YouTube Video Blocker - YouTube Video Blocker fork for Chrome and Chro
 
 As of 4/24/17 This extension will be on the back burner until further notice as the [extension](https://chrome.google.com/webstore/detail/video-blocker/jknkjnpcbbgcbdbaampbjlhkcghmgfhk?hl=en) this is based off of has starting working again, if said extension stops working in the future I will resume working on this once again.
 
+--
+
+If in need of an extension that works on the newest youtube design until I can get around to updating this, you can take a look at this [extension](https://chrome.google.com/webstore/detail/keyword-blocker/pbgacppomjfpheddhifkdkklddnolnpg) it does everything that Video Blocker does plus a bit more, and it works on the latest youtube design. 
+
 ## Releases
 
 At the Current time there are no releases scheduled for chrome store. Sorry
