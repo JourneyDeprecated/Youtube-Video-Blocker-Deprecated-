@@ -2,7 +2,7 @@ Journey's YouTube Video Blocker - YouTube Video Blocker fork for Chrome and Chro
 
 ## Notice!
 
-As of 09/04/17 This extension will be deprecated until further notice. I don't have time to work on this project any and I don't know when I will have time. I am disabling issues until further notice along with this decision. Please do not comment on commits or anything about this project not working as I already know it's not working. 
+As of 09/04/17 This extension will be deprecated until further notice. I don't have time to work on this project any and I don't know when I will have time. I am disabling issues until further notice along with this decision. Please do not comment on commits or anything about this project not working as I already know it's not working. [if someone wants to fix fork this or whatever and continue working on they are free to do so, and I will gladly accept pull requests]
 
 --
 
