@@ -1,7 +1,8 @@
 {
   "author": "Journey Over",
   "name": "Journey's Youtube Video Blocker",
-  "version": "1.0.2",
+  "short_name": "Video Filter",
+  "version": "1.0.3",
   "description": "Hide annoying videos on YouTube from any channel you want!",
   "web_accessible_resources": ["images/*", "views/*"],
   "homepage_url": "https://github.com/JourneyOver/Youtube-Video-Blocker",
